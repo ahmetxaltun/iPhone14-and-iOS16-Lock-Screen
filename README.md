@@ -1,3 +1,9 @@
-# iPhone 14
+# iPhone 14 Dynamic Island
 iPhone 14 Pro Max <br>
 HTML, CSS and JavaScript
+
+----------------------------
+
+CodePen
+@ahmetxaltun : https://codepen.io/ahmetxaltun
+iPhone 14 Codes: https://codepen.io/ahmetxaltun/pen/rNvyjyg
