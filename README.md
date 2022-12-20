@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://codepen.io/ahmetxaltun/pen/rNvyjyg">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXThEvoeJtyBiElLpmGsfFINFLTgTLWAGYFbDuaHDqz39-SKl7sYfq7HA4QhmZ59Qd6Vg&usqp=CAU" alt="demo" width="50">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2d0gRPHgehn4hXhWarTvBh0wpS1_Jnl60FobJ9WkBSPOiqaeXU_8013mWVUJa4L_LfVo&usqp=CAU" alt="demo" width="50">
   </a>
 </p>
 
